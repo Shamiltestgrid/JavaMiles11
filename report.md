@@ -12,7 +12,7 @@
 
 Баг-репорт и тест-кейс
 
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/tree/master/programming
+В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/tree/master/data
 
 Тестирование производилось в следующем окружении:
 
