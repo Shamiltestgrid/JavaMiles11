@@ -1,10 +1,10 @@
 public class Main {
   public static void main(String[] args) {
    
-    short amount = 1500;
-    byte percent = 20;
+    int amount = 1500;
+    int transfercash = 20;
 
-    int bonus = amount / percent;
+    int bonus = amount / transfercash;
 
     System.out.println(bonus);
   }
